@@ -10,5 +10,7 @@ Welcome to my profile, everyone! As of June 19, 2024, I am a fourth-year student
 
 ## Additional URLs that showcase more about me!
 Youtube : https://www.youtube.com/channel/UCFXWce_Sh6BtKYS4f8dbbjA
+
+
 Velog : https://velog.io/@wow456869/posts
 
