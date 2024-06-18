@@ -1,23 +1,43 @@
 ---
 layout: post
-title: 10 Tips To Improve Your Workflow
-date: 2017-09-12 00:00:00 +0300
+title: How did you come to think of becoming a developer?
+date: 2024-10-12 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: workflow.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
-tags: [Productivity, Workflow] # add tag
+img: looking_code # Add image post (optional)
+tags: [think, Workflow] # add tag
 ---
 
-Asymmetrical portland enamel pin af heirloom ramps authentic thundercats. Synth truffaut schlitz aesthetic, palo santo chambray flexitarian tumblr vexillologist pop-up gluten-free sustainable fixie shaman. Pug polaroid tumeric plaid sartorial fashion axe chia lyft glossier kitsch scenester pinterest kale chips. Blog etsy umami fashion axe shoreditch. Prism chambray heirloom, drinking vinegar portland paleo slow-carb. Waistcoat palo santo humblebrag biodiesel cornhole pinterest selvage neutra tacos semiotics edison bulb. Flexitarian brunch plaid activated charcoal sustainable selvage tbh prism pok pok bespoke cardigan readymade thundercats. Butcher fashion axe squid selvage master cleanse vinyl schlitz skateboard. Lomo shaman man bun keffiyeh asymmetrical listicle. Kickstarter trust fund fanny pack post-ironic wayfarers swag kitsch. Shaman pug kale chips meh squid.
+###  Prolog
+I naturally started programming as I pursued things I wanted to do.
+Based on my brief experiences, I believe it's a blessing to be deeply fascinated and immersed in something. When you find something enjoyable and receive recognition from others, experiencing your own value increasing, it becomes addictive. Once hooked on this feeling, there's a continuous cycle of wanting to do better and create higher value. I've long believed that this cycle is a cheat code not only for developing skills but also for life, something you'll never regret. Discovering this cheat code was truly serendipitous for me, and I plan to continue believing in it.
 
-###  Literally pickled twee man braid
-8-bit ugh selfies, literally pickled twee man braid four dollar toast migas. Slow-carb mustache meggings pok pok. Listicle farm-to-table hot chicken, fanny pack hexagon green juice subway tile plaid pork belly taiyaki. Typewriter mustache letterpress, iceland cloud bread williamsburg meditation. Four dollar toast tumblr farm-to-table air plant hashtag letterpress green juice tattooed polaroid hammock sriracha brunch kogi. Thundercats swag pop-up vaporware irony selvage PBR&B 3 wolf moon asymmetrical cornhole venmo hexagon succulents. Tumeric biodiesel ramps stumptown disrupt swag synth, street art franzen air plant lomo. Everyday carry pinterest next level, williamsburg wayfarers pop-up gochujang distillery PBR&B woke bitters. Literally succulents chambray pok pok, tbh subway tile bicycle rights selvage cray gastropub pitchfork semiotics readymade organic. Vape flexitarian tumblr raclette organic direct trade. Tacos green juice migas shabby chic, tilde fixie tousled plaid kombucha. +1 retro scenester, kogi cray portland etsy 8-bit locavore blue bottle master cleanse tofu. PBR&B adaptogen chartreuse knausgaard palo santo intelligentsia.
+### The quickest way to become familiar with computers is through gaming.
 
-![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
-Man bun umami keytar 90's lomo drinking vinegar synth everyday carry +1 bitters kinfolk raclette meggings street art heirloom. Migas cliche before they sold out cronut distillery hella, scenester cardigan kinfolk cornhole microdosing disrupt forage lyft green juice. Tofu deep v food truck live-edge edison bulb vice. Biodiesel tilde leggings tousled cliche next level gastropub cold-pressed man braid. Lyft humblebrag squid viral, vegan chicharrones vice kinfolk. Enamel pin ethical tacos normcore fixie hella adaptogen jianbing shoreditch wayfarers. Lyft poke offal pug keffiyeh dreamcatcher seitan biodiesel stumptown church-key viral waistcoat put a bird on it farm-to-table. Meggings pitchfork master cleanse pickled venmo. Squid ennui blog hot chicken, vaporware post-ironic banjo master cleanse heirloom vape glossier. Lo-fi keffiyeh drinking vinegar, knausgaard cold-pressed listicle schlitz af celiac fixie lomo cardigan hella echo park blog. Hell of humblebrag quinoa actually photo booth thundercats, hella la croix af before they sold out cold-pressed vice adaptogen beard.
+The first encounter with programming for me was 'games'. Since childhood, I've always loved computer games. I have an older brother who is 12 years older than me, and before I even started elementary school, I saw him occasionally playing games on the computer at home. Naturally, I was captivated by the allure of games myself. My first game was in the FPS genre, either WarRock or Karma Online—I don't remember which was the very first, but I do remember enjoying both.
 
-### Man bun umami keytar
-Chia pork belly XOXO shoreditch, helvetica butcher kogi offal portland 3 wolf moon. Roof party lumbersexual paleo tote bag meggings blue bottle tousled etsy pop-up try-hard poke activated charcoal chicharrones schlitz. Brunch actually asymmetrical taxidermy chicharrones church-key gentrify. Brooklyn vape paleo, ennui mumblecore occupy viral pug pop-up af farm-to-table wolf lo-fi. Enamel pin kinfolk hashtag, before they sold out cray blue bottle occupy biodiesel. Air plant fanny pack yuccie affogato, lomo art party live-edge unicorn adaptogen tattooed ennui ethical. Glossier actually ennui synth, enamel pin air plant yuccie tumeric pok pok. Ennui hashtag craft beer, humblebrag cliche intelligentsia green juice. Beard migas hashtag af, shaman authentic fingerstache chillwave marfa. Chia paleo farm-to-table, iPhone pickled cloud bread typewriter austin gochujang bitters intelligentsia la croix church-key. Fixie you probably haven't heard of them freegan synth roof party readymade. Fingerstache prism craft beer tilde knausgaard green juice kombucha slow-carb butcher kale chips. Snackwave organic tbh ennui XOXO. Hell of woke blue bottle, tofu roof party food truck pok pok thundercats. Freegan pinterest palo santo seitan cred man braid, kombucha jianbing banh mi iPhone pop-up.
+I tried various games following my brother, and among them, the RPG genre was particularly fascinating. At that time, my brother enjoyed playing "The Kingdom of the Winds," and I followed suit, diving into RPGs.
+
+During my elementary school years, I encountered two RPG games that were most popular among my peers: 'Dungeon Fighter Online' and 'MapleStory'. Meeting these two games marked the beginning of my journey into development.
+
+Thinking back, it's quite amusing how these two games I encountered in elementary school led me into a career in development. Have you heard of AutoHotKey, a scripting language? It was my first programming language that introduced me to the world of developers.
+
+### First Programming
+
+As mentioned earlier, let's start with the story of Dungeon Fighter Online (DFO). In DFO, my character was a Spitfire class. Frankly, the name of the class isn't important. What mattered was the way my character attacked, which required me to rapidly press the 'x' key on the keyboard. Pressing and holding down the key didn't work for attacking; I had to repeatedly press and release it. The game was really fun, but at some point, my fingers started hurting.
+
+Did I give up the game because of the pain in my fingers? No, absolutely not. Because I loved gaming so much back then, my focus was on how to make it more comfortable. The choice to give up gaming was never an option.
+
+So, how did I solve the problem of sore fingers? What I wanted was a program that would automatically press and release the 'x' key when I held it down. It was during this time that I first learned about something called a "macro," which is a program that performs repetitive actions.
+
+Once I realized what kind of program I needed, all I had to do was find it. I searched for keyboard input macros and stumbled upon the keyword "AutoHotkey." Interestingly enough, someone had already uploaded a blog post where you could download an 'x' key macro. Was it fate? I downloaded the macro I wanted and enjoyed the game much more comfortably. When I held down the 'x' key, it would automatically press and release every 0.2 seconds, exactly as I needed.
+
+However, this joy didn't last long. I created a new character that required not only the 'x' key but also the 'a' key to be pressed rapidly. I searched again for a macro that could handle both 'x' and 'a' keys, but it was amusing that I couldn't find one that suited my needs perfectly. Naturally, such a macro didn't exist, so I pondered if there was another way. That's when I came across something interesting in a blog post about the 'x' key macro.
+
+While browsing through the post, I discovered two attachments with the same filename but different file extensions. One was an .exe file, and as someone familiar with computers since childhood, I knew .exe files were executable files. In fact, I had used .exe files to run macros. However, the other file extension was .ahk, which was unfamiliar to me. Curious about what it was, I searched and found that running a certain program would convert .ahk files into .exe files. Later on, I learned that this process is called "compiling."
+
+After realizing that .ahk files could be converted to .exe files, I hypothesized that if I could edit .ahk files as I wanted, I could get the .exe file I desired. Searching for ways to modify .ahk files, I found that I could simply open and edit them using a text editor. It was such a simple method. Although I don't remember the details very clearly from such a long time ago, I do remember editing script files with Notepad.
+
+Opening the script file with Notepad revealed a flood of English words. Some words were unfamiliar and meaningless to me, but as an 11-year-old at the time, there were words I could understand. As I skimmed through the words, I noticed a combination of words near the word "while" that included the letter 'x'. Instinctively, I felt that modifying this part would give me what I wanted. I changed the quoted 'x' to 'a' and saved it. Finding a way to convert the modified .ahk file to an .exe file was not difficult, so I quickly did it. Finally, I ran the 'a' key macro I created and wondered if it would really work. I logged into the game with this thought in mind. When I held down the 'a' key, a whole new world opened up. The desired effect of pressing the keyboard 'a' key rapidly and tirelessly was achieved. This was my first experience with programming.
 
 >Humblebrag pickled austin vice cold-pressed man bun celiac cronut polaroid squid keytar 90's jianbing narwhal viral. Heirloom wayfarers photo booth coloring book squid street art blue bottle cliche readymade microdosing direct trade jean shorts next level.
 
